@@ -18,8 +18,8 @@ Here's a GIF to add some tech flavor to the mix:
 
 ![Tech Gif](https://media.giphy.com/media/ZG719DLM6Zk8b2NhB6/giphy.gif)
 
-And of course, some data magic:
+What we actually look like:
 
-![Data Analysis Gif](https://media.giphy.com/media/KyBX9tojHbALPepJQO/giphy.gif)
+![Data Analysis Gif](https://giphy.com/gifs/JIX9t2j0ZTN9S)
 
 Looking forward to collaborating, learning, and having fun with code! 🤓
