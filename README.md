@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub World! 🚀
 
-(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAyMHBjdGc0d255Mm92Z24zOTdqY3UzOXNrMzNvMW9uNmJkeTFxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAyMHBjdGc0d255Mm92Z24zOTdqY3UzOXNrMzNvMW9uNmJkeTFxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
 I'm Rawad Zaidan, your friendly data enthusiast! 📊
 
