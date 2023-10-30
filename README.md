@@ -16,7 +16,7 @@ Let's connect and explore the data universe together! Find me on LinkedIn:
 
 Here's a GIF to add some tech flavor to the mix:
 
-![Tech Gif](https://media.giphy.com/media/ZG719DLM6Zk8b2NhB6/giphy.gif)
+![Tech Gif](https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif)
 
 What we actually look like:
 
