@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub World! 🚀
 
-![Python Gif](https://media.giphy.com/media/yoJC2GnSCG5LRi5t3C/giphy.gif)
+![Python Gif](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm")
 
 I'm Rawad Zaidan, your friendly data enthusiast! 📊
 
