@@ -14,9 +14,9 @@ I'm Rawad Zaidan, your friendly data enthusiast! 📊
 Let's connect and explore the data universe together! Find me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rawad-zeidan/)
 
-Here's a GIF to add some tech flavor to the mix:
+How we feel like when working as data engineers:
 
-![Tech Gif](https://media.giphy.com/media/hHxTQkcjmHUTC/giphy.gif)
+![Tech Gif](https://media.giphy.com/media/11dMtvmKPLrwCk/giphy.gif)
 
 What we actually look like:
 
