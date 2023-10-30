@@ -20,6 +20,6 @@ Here's a GIF to add some tech flavor to the mix:
 
 What we actually look like:
 
-![Data Analysis Gif](https://giphy.com/gifs/JIX9t2j0ZTN9S)
+![Data Analysis Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpyMGU2bmprYnM4bWtsY3RjcG9qdHBwajBnZXRubHJ4c2Z1Zm54eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
 
 Looking forward to collaborating, learning, and having fun with code! 🤓
