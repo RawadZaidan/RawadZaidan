@@ -12,7 +12,7 @@ I'm Rawad Zaidan, your friendly data enthusiast! 📊
 - 💼 Data Analysis, Business Intelligence, Data Engineering, and Automation are my playgrounds.
 
 Let's connect and explore the data universe together! Find me on LinkedIn:
-![LinkedIn](https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png)(https://www.linkedin.com/in/rawad-zeidan/)
+![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Fclick-here-buttons%2Fclick-here-blue&psig=AOvVaw1xfG1nrO8W1VFEbYVTqlKC&ust=1698774800523000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDv1bernoIDFQAAAAAdAAAAABAw)(https://www.linkedin.com/in/rawad-zeidan/)
 
 How we feel like when working as data engineers:
 
