@@ -6,7 +6,7 @@
 
 I'm Rawad Zaidan, your friendly data enthusiast! 📊
 
-- 🌟 I'm passionate about data engineering, analysis, and automation.
+- 🌟 I'm passionate about Data Engineering, Analysis, and Automation.
 - 💡 Always looking for ways to make everything better, faster, and smarter! 🚀
 - 🐍 I'm a Python aficionado, and SQL is my second language!
 - 💼 Data Analysis, Business Intelligence, Data Engineering, and Automation are my playgrounds.
