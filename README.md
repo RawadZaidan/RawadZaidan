@@ -22,10 +22,11 @@ My journey is a fusion of biology, machines, and data — and I love building sm
 📊 Also Into: Data analysis, automation, model deployment, and turning chaos into clean dashboards
 
 🎯 Mission
-Bridging engineering intuition with AI intelligence — to build tech that empowers people, especially in healthcare and under-resourced settings ! Find me on LinkedIn:
+Bridging engineering intuition with AI intelligence — to build tech that empowers people, especially in healthcare and under-resourced settings ! 
+Find me on LinkedIn:
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rawad-zeidan/)
 
-How we feel like when working as data engineers:
+How we feel like when working as AI Engineer:
 
 ![Tech Gif](https://media.giphy.com/media/11dMtvmKPLrwCk/giphy.gif)
 
