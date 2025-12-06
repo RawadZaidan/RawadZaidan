@@ -17,7 +17,7 @@ My journey is a fusion of biology, machines, and data — and I love building sm
 
 🧪 Interests: Smart health, computer vision, NLP, ETL pipelines, and ethical AI
 
-🐍 Tech Stack: Python, SQL, Docker, Airflow, Pandas, Sklearn, TensorFlow, and always exploring more
+🐍 Tech Stack: Python, SQL, Pandas, Sklearn, TensorFlow, and always exploring more
 
 📊 Also Into: Data analysis, automation, model deployment, and turning chaos into clean dashboards
 
