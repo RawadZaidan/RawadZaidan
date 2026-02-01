@@ -4,7 +4,7 @@
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanAyMHBjdGc0d255Mm92Z24zOTdqY3UzOXNrMzNvMW9uNmJkeTFxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)
 
-I'm Rawad Zaidan — a Biomedical Engineer turned AI Practitioner currently pursuing my MSc in Applied Artificial Intelligence at the University of Hull 🇬🇧.
+I'm Rawad Zaidan - a Biomedical Engineer turned AI Practitioner currently pursuing my MSc in Applied Artificial Intelligence at the University of Hull 🇬🇧.
 
 My journey is a fusion of biology, machines, and data — and I love building smart, scalable solutions that live at the intersection of healthtech, AI, and data systems.
 
