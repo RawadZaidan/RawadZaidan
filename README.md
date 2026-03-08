@@ -9,7 +9,7 @@
 <br/>
 
 > *"If you build the armor right, you don't need to be afraid of the battle."*
-> — Inspired by Tony Stark, engineered by Rawad.
+> - Inspired by Tony Stark, engineered by Rawad.
 
 </div>
 
@@ -21,24 +21,24 @@
 
 </div>
 
-I started in biomedical engineering — studying the intersection of biology and machines. Then I discovered something more powerful: **AI that thinks, pipelines that flow, and systems that scale.**
+I started in biomedical engineering - studying the intersection of biology and machines. Then I discovered something more powerful: **AI that thinks, pipelines that flow, and systems that scale.**
 
-Today I'm the **creator of EVA Ops**, a platform pushing the boundaries of operational intelligence — and I'm just getting started.
+Today I'm the **creator of EVA Ops**, a platform pushing the boundaries of operational intelligence - and I'm just getting started.
 
-- 🎓 **MSc Applied Artificial Intelligence** — University of Hull, UK 🇬🇧
-- 🏭 **Data Engineering Bootcamp Graduate** — SE Factory (where I learned to tame raw data like it was nothing)
+- 🎓 **MSc Applied Artificial Intelligence**- University of Hull, UK 🇬🇧
+- 🏭 **Data Engineering Bootcamp Graduate** - SE Factory (where I learned to tame raw data like it was nothing)
 - 🧬 **Background:** Biomedical Engineering → the bridge between human systems and intelligent machines
-- 🌍 **Based in:** Lebanon — building globally, thinking beyond borders
+- 🌍 **Based in:** Lebanon - building globally, thinking beyond borders
 
 ---
 
 <div align="center">
 
-## 🤖 EVA OPS — My Flagship Build
+## 🤖 EVA OPS - My Flagship Build
 
 </div>
 
-> **EVA Ops** is my brainchild — an intelligent operations platform designed to automate, orchestrate, and elevate how teams operate. Think of it as J.A.R.V.I.S. for real-world operations.
+> **EVA Ops** is my brainchild - an intelligent operations platform designed to automate, orchestrate, and elevate how teams operate. Think of it as J.A.R.V.I.S. for real-world operations.
 
 *More details dropping soon. Watch this space.*
 
@@ -81,7 +81,7 @@ Today I'm the **creator of EVA Ops**, a platform pushing the boundaries of opera
 | 🚀 Project | 🎯 Focus |
 |---|---|
 | **EVA Ops** | Building an intelligent operations platform |
-| **MSc Research** | Applied AI — pushing the academic frontier |
+| **MSc Research** | Applied AI - pushing the academic frontier |
 | **MLOps & Deployment** | Getting models out of notebooks and into the wild |
 | **Data Systems** | Architecting clean, fast, scalable pipelines |
 
@@ -95,7 +95,7 @@ Today I'm the **creator of EVA Ops**, a platform pushing the boundaries of opera
 
 > *Tony didn't wait for permission. He built the suit in a cave. With scraps.*
 
-My philosophy: **prototype fast, think deeply, build boldly.** Healthcare, AI, or whatever problem is next — I show up with engineering instincts and a machine learning toolkit.
+My philosophy: **prototype fast, think deeply, build boldly.** Healthcare, AI, or whatever problem is next - I show up with engineering instincts and a machine learning toolkit.
 
 The world doesn't need more people who talk about AI. It needs builders who ship it.
 
